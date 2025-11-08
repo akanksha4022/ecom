@@ -37,60 +37,67 @@ mock-ecom-cart/
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Clone the Repository
-
+```
 git clone https://github.com/akanksha4022/ecom.git
 cd mock-ecom-cart
+```
 
 ---
 
 
 ### 2️⃣ Setup Backend
+```
 cd backend
 npm install
+```
 
 
 
 
  ### Create a .env file inside /backend:
-
+```
 MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/mockEcom
 PORT=5000
+```
 
 
 Then run:
-
+```
 npm run dev
+```
 
 
 Backend will run on 👉 http://localhost:5000
 
 ### 3️⃣ Setup Frontend
+```
 cd ../frontend
 npm install
 npm run dev
+```
 
 
 Frontend will run on 👉 http://localhost:5173
 
 💎 Features
 
-✅ Product grid with “Add to Cart”
-✅ Cart view with total, quantity, and remove buttons
-✅ Checkout form (with name/email validation)
-✅ Personalized receipt (shows user details + total)
-✅ Real products fetched from Fake Store API
-✅ MongoDB persistence for cart and products
-✅ Tailwind CSS responsive design
-✅ Popup notifications on add/remove
+✅ * Product grid with “Add to Cart”
+✅ * Cart view with total, quantity, and remove buttons
+✅ * Checkout form (with name/email validation)
+✅ * Personalized receipt (shows user details + total)
+✅ * Real products fetched from Fake Store API
+✅ * MongoDB persistence for cart and products
+✅ * Tailwind CSS responsive design
+✅ * Popup notifications on add/remove
 
 
 ### 🖼️ Screenshots
 Page	Screenshot
-🛍️ Products	
+1. 🛍️ Products	
 
-🛒 Cart	
+2. 🛒 Cart	
 
-💳 Receipt
+3. 💳 Receipt
 
 ### 📹 Demo Video
 
