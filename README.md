@@ -4,7 +4,7 @@
 **Vibe Commerce** is a full-stack shopping cart web app built as part of the Vibe Commerce screening task.  
 It demonstrates a complete e-commerce flow — including product listing, cart management, and checkout — using a modern MERN-style stack.  
 
----
+--
 
 ## 🧠 Tech Stack
 
