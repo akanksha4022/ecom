@@ -1,12 +1,12 @@
-# 🛒 Vibe Commerce — Mock E-Commerce Cart
+# Vibe Commerce — Mock E-Commerce Cart
 
-### 📌 Overview
+### Overview
 **Vibe Commerce** is a full-stack shopping cart web app built as part of the Vibe Commerce screening task.  
 It demonstrates a complete e-commerce flow — including product listing, cart management, and checkout — using a modern MERN-style stack.  
 
 --
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |--------|-------------|
@@ -18,7 +18,7 @@ It demonstrates a complete e-commerce flow — including product listing, cart m
 
 --
 
-## ⚙️ Project Structure
+## Project Structure
 
 mock-ecom-cart/
 ├── backend/ # Express server + MongoDB models + APIs
@@ -34,7 +34,7 @@ mock-ecom-cart/
 
 
 --
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Clone the Repository
 ```
@@ -67,7 +67,7 @@ npm run dev
 ```
 
 
-Backend will run on 👉 http://localhost:5000
+Backend will run on  http://localhost:5000
 
 --
 
@@ -79,9 +79,9 @@ npm run dev
 ```
 
 
-Frontend will run on 👉 http://localhost:5173
+Frontend will run on  http://localhost:5173
 
-### 💎 Features
+### Features
 
 * Product grid with “Add to Cart”
 * Cart view with total, quantity, and remove buttons
@@ -104,14 +104,14 @@ Page	Screenshot
 3. 💳 Receipt <img width="1896" height="867" alt="image" src="https://github.com/user-attachments/assets/6e2009cb-e87b-45be-81e1-749bbc122207" />
 
 
-### 📹 Demo Video
+###  Demo Video
 
 🎥 Demo (Loom or YouTube Unlisted):
 
 - [https://youtu.be/2zEJJsJbn6Y]
 
 
-### 🧾 Example Flow
+###  Example Flow
 
  1. User views products from Fake Store API
  2️. Adds items to cart (popup “Added to Cart!” appears)
