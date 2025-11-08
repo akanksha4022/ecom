@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+
+
+
+@font-face {
+  font-family: Gilroy-regular;
+  src: url(./assets/Gilroy-Regular.ttf);
+}
+@font-face {
+  font-family: Gilroy-bold;
+  src: url(./assets/Gilroy-Heavy.ttf);
+}
+::selection{
+  color: peru;
+  background-color:  rgb(255, 242, 219);
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-in-out;
+}
+
+
+body{
+  background-color:  #fffbf0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Gilroy-regular;
+}
