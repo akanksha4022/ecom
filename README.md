@@ -16,7 +16,7 @@ It demonstrates a complete e-commerce flow — including product listing, cart m
 | **API Integration** | [Fake Store API](https://fakestoreapi.com/) |
 | **Version Control** | Git + GitHub |
 
----
+--
 
 ## ⚙️ Project Structure
 
@@ -33,7 +33,7 @@ mock-ecom-cart/
 └── README.md
 
 
----
+--
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Clone the Repository
@@ -42,7 +42,7 @@ git clone https://github.com/akanksha4022/ecom.git
 cd mock-ecom-cart
 ```
 
----
+--
 
 
 ### 2️⃣ Setup Backend
@@ -69,6 +69,8 @@ npm run dev
 
 Backend will run on 👉 http://localhost:5000
 
+--
+
 ### 3️⃣ Setup Frontend
 ```
 cd ../frontend
@@ -79,16 +81,16 @@ npm run dev
 
 Frontend will run on 👉 http://localhost:5173
 
-💎 Features
+### 💎 Features
 
-✅ * Product grid with “Add to Cart”
-✅ * Cart view with total, quantity, and remove buttons
-✅ * Checkout form (with name/email validation)
-✅ * Personalized receipt (shows user details + total)
-✅ * Real products fetched from Fake Store API
-✅ * MongoDB persistence for cart and products
-✅ * Tailwind CSS responsive design
-✅ * Popup notifications on add/remove
+* Product grid with “Add to Cart”
+* Cart view with total, quantity, and remove buttons
+* Checkout form (with name/email validation)
+* Personalized receipt (shows user details + total)
+* Real products fetched from Fake Store API
+* MongoDB persistence for cart and products
+* Tailwind CSS responsive design
+* Popup notifications on add/remove
 
 
 ### 🖼️ Screenshots
@@ -102,16 +104,16 @@ Page	Screenshot
 ### 📹 Demo Video
 
 🎥 Demo (Loom or YouTube Unlisted):
-Click here to watch the 1-2 minute demo
 
-Show product browsing → Add to cart → Checkout → Receipt
+- [https://youtu.be/2zEJJsJbn6Y]
+
 
 ### 🧾 Example Flow
 
-1️⃣ User views products from Fake Store API
-2️⃣ Adds items to cart (popup “Added to Cart!” appears)
-3️⃣ Proceeds to checkout, enters name/email
-4️⃣ Receives personalized receipt with total and timestamp
+ 1. User views products from Fake Store API
+ 2️. Adds items to cart (popup “Added to Cart!” appears)
+ 3. Proceeds to checkout, enters name/email
+ 4️. Receives personalized receipt with total and timestamp
 
 
 🧑‍💻 Author
