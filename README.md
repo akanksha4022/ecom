@@ -38,7 +38,7 @@ mock-ecom-cart/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/<your-username>/mock-ecom-cart.git
+git clone https://github.com/akanksha4022/ecom.git
 cd mock-ecom-cart
 
 ---
