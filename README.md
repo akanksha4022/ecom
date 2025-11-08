@@ -95,11 +95,14 @@ Frontend will run on 👉 http://localhost:5173
 
 ### 🖼️ Screenshots
 Page	Screenshot
-1. 🛍️ Products	
+1. 🛍️ Products	<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/c80561fd-0543-477f-8124-cf91fa074329" />
 
-2. 🛒 Cart	
 
-3. 💳 Receipt
+2. 🛒 Cart	<img width="979" height="364" alt="image" src="https://github.com/user-attachments/assets/7c565556-a425-41ca-9ebb-18aaf06dfe44" />
+
+
+3. 💳 Receipt <img width="1896" height="867" alt="image" src="https://github.com/user-attachments/assets/6e2009cb-e87b-45be-81e1-749bbc122207" />
+
 
 ### 📹 Demo Video
 
